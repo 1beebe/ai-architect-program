@@ -8,7 +8,7 @@
 
 The AI Architect Program was a community-run workshop series (December 2025–February 2026) designed to bridge the gap between AI curiosity and AI competence. Seven sessions, 91 registrants, and a participant base that spanned Fortune 500 companies, biotech, manufacturing, academia, and independent founders — all organic, all word-of-mouth.
 
-Sessions moved fast and built on each other: LLM fundamentals → prompt engineering → AI workflows → vibe coding → AI agents → multimodal AI → a final Show & Tell showcase where participants demoed what they built.
+Sessions were opt-in and structured based on content participants surfaced during the Orientation Session "Session 0": LLM fundamentals → prompt engineering → AI workflows → vibe coding → AI agents → multimodal AI → a final Show & Tell showcase where participants demoed what they built.
 
 ---
 
@@ -17,7 +17,6 @@ Sessions moved fast and built on each other: LLM fundamentals → prompt enginee
 | Metric | Result |
 |---|---|
 | Registrants | 91 (zero paid marketing) |
-| Cancellations | 0 |
 | Satisfaction rate | 96% |
 | Avg helpfulness rating | 4.47 / 5.0 |
 | Post-program overall rating | 4.8 / 5.0 |
